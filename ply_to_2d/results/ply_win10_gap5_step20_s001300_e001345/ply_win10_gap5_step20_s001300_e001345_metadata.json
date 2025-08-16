@@ -1,0 +1,61 @@
+{
+  "input_file": "/root/data/datasets/RELLIS-3D/Rellis-3D/00000/ply_frames_Pi3/ply_win10_gap5_step20_s001300_e001345.ply",
+  "total_points": 1243910,
+  "ground_normal": [
+    0.106105523970344,
+    0.9024772237627596,
+    0.41746434383362696
+  ],
+  "processing_time": "2025-08-16 15:53:40",
+  "results": {
+    "0.0005": {
+      "clean_path": "results/ply_win10_gap5_step20_s001300_e001345/ply_win10_gap5_step20_s001300_e001345_topview_0p0005m_clean.png",
+      "full_path": "results/ply_win10_gap5_step20_s001300_e001345/ply_win10_gap5_step20_s001300_e001345_topview_0p0005m.png",
+      "bounds": [
+        -0.7724272718034175,
+        2.510715955657602,
+        -0.6062556121423937,
+        1.813885629210222
+      ],
+      "size": [
+        6567,
+        4841
+      ],
+      "resolution": 0.0005
+    },
+    "0.001": {
+      "clean_path": "results/ply_win10_gap5_step20_s001300_e001345/ply_win10_gap5_step20_s001300_e001345_topview_0p001m_clean.png",
+      "full_path": "results/ply_win10_gap5_step20_s001300_e001345/ply_win10_gap5_step20_s001300_e001345_topview_0p001m.png",
+      "bounds": [
+        -0.7724272718034175,
+        2.510715955657602,
+        -0.6062556121423937,
+        1.813885629210222
+      ],
+      "size": [
+        3284,
+        2421
+      ],
+      "resolution": 0.001
+    },
+    "0.002": {
+      "clean_path": "results/ply_win10_gap5_step20_s001300_e001345/ply_win10_gap5_step20_s001300_e001345_topview_0p002m_clean.png",
+      "full_path": "results/ply_win10_gap5_step20_s001300_e001345/ply_win10_gap5_step20_s001300_e001345_topview_0p002m.png",
+      "bounds": [
+        -0.7724272718034175,
+        2.510715955657602,
+        -0.6062556121423937,
+        1.813885629210222
+      ],
+      "size": [
+        1642,
+        1211
+      ],
+      "resolution": 0.002
+    }
+  },
+  "ground_plane": {
+    "inlier_ratio": 0.4456431735414942,
+    "d_coefficient": -0.5302281935774725
+  }
+}
